@@ -41,3 +41,6 @@ Test cases are as below:
         assertEqual(false, nameMatch(knownAliases, nameBuild("Mark S Cassandra")), "error 105.3");
         assertEqual(false, nameMatch(knownAliases, nameBuild("Mark Joseph Cassandra")), "error 105.4");
         assertEqual(false, nameMatch(knownAliases, nameBuild("Mark Michael Cassandra")), "error 105.5");
+        
+        
+Problem courtesy: This question was originally given to me by someone else.
