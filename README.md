@@ -43,4 +43,4 @@ Test cases are as below:
         assertEqual(false, nameMatch(knownAliases, nameBuild("Mark Michael Cassandra")), "error 105.5");
         
         
-Problem courtesy: This question was originally given to me by someone else. I was happy I encountered such a problem so this is my own version of it. I don't have the original version. As a software engineer, I believe we should solve every algorithm that we coe across because problems are repititive.
+Problem courtesy: This question was originally given to me by someone else. I was happy I encountered such a problem so this is my own version of it. I don't have the original version. As a software engineer, I believe we should solve every algorithm that we coe across because problems are repetitive.
